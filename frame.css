@@ -1,18 +1,18 @@
 h1{
     color:black;
-    font-size:40px;
+    font-size:50px;
     text-align:center;
   }
   
   canvas{
-    height:400px;
+    height:500px;
     width:500px;
-    border: 5px solid lightgray;
+    border: 3px solid black;
     box-align : center;
   }
   input{
     font-size:15px;
   }
    body{
-     background-color: antiquewhite;
+     background-color: teal;
   }
